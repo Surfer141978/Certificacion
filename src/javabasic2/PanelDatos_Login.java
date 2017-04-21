@@ -104,7 +104,7 @@ public class PanelDatos_Login extends JPanel implements ActionListener{
 			VentanaPrincipal vp = new VentanaPrincipal();
 			//VentanaInicioSesion vlogin = new VentanaInicioSesion();                        
 			vp.setVisible(true);
-			login.setVisible(true);
+			login.setVisible(false);
                 } 
         }
 }
