@@ -15,8 +15,8 @@ import javax.swing.SwingConstants;/**
 public class PanelImagen_Login extends JPanel {
 	private JLabel imagen;
 	public PanelImagen_Login(){
-		Icon titulo = new ImageIcon(getClass().getResource("titulo2.gif"));
+		/*Icon titulo = new ImageIcon(getClass().getResource("titulo2.gif"));
 		imagen = new JLabel(titulo);
-		add(imagen);
+		add(imagen);*/
 	}
 }

@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package javabasic2;
+import java.awt.event.ActionEvent;
 import javax.swing.JFrame;
 /**
  *

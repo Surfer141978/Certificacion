@@ -34,7 +34,7 @@ public class VentanaInicioSesion extends JFrame {
 		login.add(imagen, BorderLayout.NORTH);
 		login.add(datos, BorderLayout.CENTER); 
 		login.setSize(380, 365);
-		login.setVisible(true);
+		login.setVisible(false);
 		login.setResizable(false);
 		login.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}    

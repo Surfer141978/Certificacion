@@ -102,7 +102,7 @@ public class PanelDatos_Login extends JPanel implements ActionListener{
 	public void actionPerformed(ActionEvent e){
 		if (e.getSource() == buttonIngresar) {
 			VentanaPrincipal vp = new VentanaPrincipal();
-			//VentanaInicioSesion vlogin = new VentanaInicioSesion();                        
+			VentanaInicioSesion vlogin = new VentanaInicioSesion();                        
 			vp.setVisible(true);
 			login.setVisible(false);
                 } 
